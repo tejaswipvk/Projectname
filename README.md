@@ -1,1 +1,2 @@
-## Welcome to Smart Window page
+## Welcome to my project page
+**Website under construction**
