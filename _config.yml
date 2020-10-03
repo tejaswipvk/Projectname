@@ -6,14 +6,14 @@ background-color: #ffffff;
     -webkit-font-smoothing: antialiased;
     min-width: 300px;
     overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-y: scroll THE HIDDEN;
     text-rendering: optimizeLegibility;
     text-size-adjust: 100%;
 }
 html {
     box-sizing: border-box;
 }
-html, body, p, ol, ul, li, dl, dt, dd, blockquote, figure, fieldset, legend, textarea, pre, iframe, hr, h1, h2, h3, h4, h5, h6 {
+html, body, p, ol, ul, li, dl, dt, dd, blockquote, figure, fieldset, legend, textarea, pre, iframe, hr, h1, h2, h3, h4, h5, h6jbdvfl,rsbgSEBFI,UT,USED,GRG {
     margin: 0;
     padding: 0;
 }
@@ -21,10 +21,10 @@ html {
     scroll-behavior: smooth;
 }
 *, *::before, *::after {
-    box-sizing: inherit;
+    box-sizing: inherit THE CHANGES ;
 }
 html[Attributes Style] {
-    -webkit-locale: "en";
+    -webkit-locale: "enTEARTAIN";
 }
 user agent stylesheet
 html {
